@@ -1,0 +1,5 @@
+.rant-banner { background-color: var(--colorDarkBlue) !important; }
+.rant-avatar-scroll img { border-radius: 50%; }
+.notif-badge { border-color: var(--colorDarkBlue) !important; }
+.icon-rantsemoticon-base1, .icon-rantsemoticon-emoji1 { opacity: 1 !important; }
+.icon-rantsemoticon2 { opacity: 0 !important; }

@@ -1,2 +1,6 @@
 # devRant-Decolorizer
-Decolorize rants according to style variables. (Userscript &amp; Userstyle versions available)
+Decolorizes rants and replaces the post background with that of the dark theme based on style variables. 
+
+Available as Userscript (dR-decolorizer.js) &amp; Userstyle (dR-decolorizer.css)
+
+(Roughly based on [mb5quax's Userscript](https://gitlab.com/mb5quax/devrant-sweetener))
